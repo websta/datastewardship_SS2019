@@ -1,0 +1,75 @@
+
+Host Name:                 DESKTOP-6AVD26J
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00330-50000-00000-AAOEM
+Original Install Date:     1/5/2019, 3:43:01 AM
+System Boot Time:          4/10/2019, 2:14:10 AM
+System Manufacturer:       LENOVO
+System Model:              20JD005WGE
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~2703 Mhz
+BIOS Version:              LENOVO N1NET44W (1.31 ), 1/23/2019
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume4
+System Locale:             de;German (Germany)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Total Physical Memory:     16,235 MB
+Available Physical Memory: 5,442 MB
+Virtual Memory: Max Size:  30,098 MB
+Virtual Memory: Available: 4,609 MB
+Virtual Memory: In Use:    25,489 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-6AVD26J
+Hotfix(s):                 9 Hotfix(s) Installed.
+                           [01]: KB4486553
+                           [02]: KB4470502
+                           [03]: KB4470788
+                           [04]: KB4480056
+                           [05]: KB4487038
+                           [06]: KB4489907
+                           [07]: KB4493478
+                           [08]: KB4493510
+                           [09]: KB4493509
+Network Card(s):           6 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (4) I219-V
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Dual Band Wireless-AC 8265
+                                 Connection Name: WLAN
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.5.20.1
+                                 IP address(es)
+                                 [01]: 10.5.20.201
+                                 [02]: fe80::6c0b:2556:4e8e:b213
+                           [03]: Generic Mobile Broadband Adapter
+                                 Connection Name: Mobilfunk
+                                 Status:          Media disconnected
+                           [04]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth-Netzwerkverbindung
+                                 Status:          Media disconnected
+                           [05]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Default Switch)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.73.145
+                                 [02]: fe80::79aa:9d9:8cd:59ce
+                           [06]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::c9e9:9916:54a2:9e20
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
