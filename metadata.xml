@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Fremont Bridge Hourly Bicycle Counts by Month October 2012 to present</dc:title>
+<dc:creator>Seattle Department of Transportation</dc:creator>
+<dc:subject>Bicycle Count on Fremont bridge</dc:subject>
+<dc:description>The Fremont Bridge Bicycle Counter records the number of bikes that cross the bridge using the pedestrian/bicycle pathways. Inductive loops on the east and west pathways count the passing of bicycles regardless of travel direction. The data consists of a date/time field: Date, east pathway count field: Fremont Bridge NB, and west pathway count field: Fremont Bridge SB. The count fields represent the total bicycles detected during the specified one hour period. Direction of travel is not specified, but in general most traffic in the Fremont Bridge NB field is travelling northbound and most traffic in the Fremont Bridge SB field is travelling southbound.</dc:description>
+<dc:publisher>Seattle Department of Transportation</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">2019-04-22</dc:date>
+<dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+<dc:format xsi:type="dcterms:IMT">CSV</dc:format>
+<dc:identifier xsi:type="dcterms:URI">https://doi.org/10.5281/zenodo.2648564</dc:identifier>
+<dcterms:rightsholder>Seattle Department of Transportation</dcterms:rightsholder>
+
+</metadata>
