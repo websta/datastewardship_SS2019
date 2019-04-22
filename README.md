@@ -1,4 +1,4 @@
-[](https://zenodo.org/badge/182325655.svg)
+[DOI](https://zenodo.org/badge/latestdoi/182325655)
 
 # Data Stewardship Exercise1 SS2019
 Exercises1 of Data Stewardship in summer term 2019.
