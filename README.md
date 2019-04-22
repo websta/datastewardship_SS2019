@@ -30,4 +30,7 @@ The Fremont Bridge Bicycle Counter records the number of bikes that cross the br
 The dataset will be retrieve only once for the task of the analysis. For secure storage it will be pushed Zendoo and retrieve a DOI. Even though the result will be published to Github and the repository will be pushed to Zendoo too.
 
 Dataset DOI: [https://doi.org/10.5281/zenodo.2648564](https://doi.org/10.5281/zenodo.2648564)
-Jupiter Notebook DOI:
+
+Jupyter Notebook DOI: [https://doi.org/10.5281/zenodo.2648670](https://doi.org/10.5281/zenodo.2648670)
+
+DMP-Online DOI: [https://doi.org/10.5281/zenodo.2648676](https://doi.org/10.5281/zenodo.2648676)
