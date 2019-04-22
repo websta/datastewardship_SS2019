@@ -36,3 +36,7 @@ Dataset DOI: [https://doi.org/10.5281/zenodo.2648564](https://doi.org/10.5281/ze
 Jupyter Notebook DOI: [https://doi.org/10.5281/zenodo.2648670](https://doi.org/10.5281/zenodo.2648670)
 
 DMP-Online DOI: [https://doi.org/10.5281/zenodo.2648676](https://doi.org/10.5281/zenodo.2648676)
+
+# Licence
+
+Creative Common Zero 1.0 Universal
