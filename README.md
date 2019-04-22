@@ -37,6 +37,8 @@ Jupyter Notebook DOI: [https://doi.org/10.5281/zenodo.2648670](https://doi.org/1
 
 DMP-Online DOI: [https://doi.org/10.5281/zenodo.2648676](https://doi.org/10.5281/zenodo.2648676)
 
+DS-Wizard DOI: [https://doi.org/10.5281/zenodo.2648799](https://doi.org/10.5281/zenodo.2648799)
+
 # Licence
 
 Creative Common Zero 1.0 Universal
