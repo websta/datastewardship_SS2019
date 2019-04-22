@@ -1,4 +1,4 @@
-[DOI](https://doi.org/10.5281/zenodo.2648670)
+![DOI of Github Repository](https://zenodo.org/badge/DOI/10.5281/zenodo.2648670.svg)
 
 # Data Stewardship Exercise1 SS2019
 Exercises1 of Data Stewardship in summer term 2019.
